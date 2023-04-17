@@ -1,0 +1,17 @@
+C:\Users\cngzl\OneDrive\Desktop\JSON_Task\bin\Debug\net6.0\JSON_Task.exe
+C:\Users\cngzl\OneDrive\Desktop\JSON_Task\bin\Debug\net6.0\JSON_Task.deps.json
+C:\Users\cngzl\OneDrive\Desktop\JSON_Task\bin\Debug\net6.0\JSON_Task.runtimeconfig.json
+C:\Users\cngzl\OneDrive\Desktop\JSON_Task\bin\Debug\net6.0\JSON_Task.dll
+C:\Users\cngzl\OneDrive\Desktop\JSON_Task\bin\Debug\net6.0\JSON_Task.pdb
+C:\Users\cngzl\OneDrive\Desktop\JSON_Task\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\cngzl\OneDrive\Desktop\JSON_Task\obj\Debug\net6.0\JSON_Task.csproj.AssemblyReference.cache
+C:\Users\cngzl\OneDrive\Desktop\JSON_Task\obj\Debug\net6.0\JSON_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cngzl\OneDrive\Desktop\JSON_Task\obj\Debug\net6.0\JSON_Task.AssemblyInfoInputs.cache
+C:\Users\cngzl\OneDrive\Desktop\JSON_Task\obj\Debug\net6.0\JSON_Task.AssemblyInfo.cs
+C:\Users\cngzl\OneDrive\Desktop\JSON_Task\obj\Debug\net6.0\JSON_Task.csproj.CoreCompileInputs.cache
+C:\Users\cngzl\OneDrive\Desktop\JSON_Task\obj\Debug\net6.0\JSON_Task.csproj.CopyComplete
+C:\Users\cngzl\OneDrive\Desktop\JSON_Task\obj\Debug\net6.0\JSON_Task.dll
+C:\Users\cngzl\OneDrive\Desktop\JSON_Task\obj\Debug\net6.0\refint\JSON_Task.dll
+C:\Users\cngzl\OneDrive\Desktop\JSON_Task\obj\Debug\net6.0\JSON_Task.pdb
+C:\Users\cngzl\OneDrive\Desktop\JSON_Task\obj\Debug\net6.0\JSON_Task.genruntimeconfig.cache
+C:\Users\cngzl\OneDrive\Desktop\JSON_Task\obj\Debug\net6.0\ref\JSON_Task.dll
